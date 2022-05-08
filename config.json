@@ -1,0 +1,11 @@
+{
+    "username": "学号",
+    "password": "密码",
+    "mailuser": "邮箱",
+    "mailpass": "邮箱密码",
+    "schedule": {
+        "hour": "7",
+        "minute": "50",
+        "delay": "3"
+    }
+}
