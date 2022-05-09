@@ -1,5 +1,4 @@
 # -*- coding: utf-8 -*-
-from logging import raiseExceptions
 import requests
 import json
 import re
