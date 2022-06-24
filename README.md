@@ -11,4 +11,4 @@
 
 ## 感谢
 
-感谢贡献者@Tishacy[Tishacy](https://github.com/Tishacy "github主页")
+感谢贡献者@Tishacy
